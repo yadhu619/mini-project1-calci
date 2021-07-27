@@ -1,0 +1,4 @@
+# Git ignore files
+
+# VS code files
+.vscode/

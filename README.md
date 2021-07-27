@@ -8,8 +8,8 @@ Simple calculator app with HTML/CSS/Javascript
 
 ## How to run
 
-> Clone the repo and open `index.html` in any browser
+Clone the repo and open `index.html` in any browser
 
 ## Author
 
-Yadhukrishnan
+[Yadhukrishnan](https://github.com/yadhu619)

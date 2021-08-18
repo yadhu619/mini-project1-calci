@@ -12,6 +12,7 @@ let undo = document.querySelector("#clear");
 
 let resultView = false;
 
+
 /**
  * Change display text size on length change
  * @param {object} input Text content of input

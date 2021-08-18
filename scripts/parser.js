@@ -7,5 +7,6 @@ export function parseString(dispalyedNumbers) {
   let numberList = dispalyedNumbers.split(/\+|\-|\×|\÷|\%/g);
 
   let operatorList = dispalyedNumbers.replace(/[0-9]|\./g, "").split("");
+  
   return { operatorList, numberList };
 }

@@ -41,7 +41,7 @@ export const performOperations = (operatorList, numberList) => {
 
   // Addition
   let addition = operatorList.indexOf("+");
-
+  
   while (addition != -1) {
     // using parseFloat is necessary, otherwise it will result in string concatenation
     let adder =

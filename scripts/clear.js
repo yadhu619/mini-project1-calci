@@ -13,5 +13,6 @@ export const clearAndUndo = (undo, clear, input, answer) => {
   clear.addEventListener("click", () => {
     input.innerHTML = "";
     answer.innerHTML = "";
+    input.style.fontSize = "44px";
   });
 };
